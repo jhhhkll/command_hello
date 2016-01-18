@@ -4,6 +4,7 @@ int main(void)
 {
 	printf("Hello Git!! \n");
 	printf("Hotfix2 \n");
+	printf("Hotfix2 merge \n");
 
 	return 0;
 }
