@@ -10,4 +10,6 @@ int main(void)
 	return 0;
 }
 // For command line git tutorial
-// Local repository modification
+// First: GitHub modification
+// Second: Local repository modification
+
